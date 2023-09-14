@@ -16,3 +16,5 @@ export class ModalcontactComponent {
     this.isVisible = false;
   }
 }
+
+
